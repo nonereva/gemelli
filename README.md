@@ -4,5 +4,5 @@ It datebase also relate to the linguistic analysis.
 # Development motivation
 To deal with the key object that in image better.
 # Development memo
-(click)
+(click for read)
 https://github.com/nonereva/gemelli/discussions/2
